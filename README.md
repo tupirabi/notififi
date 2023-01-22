@@ -1,0 +1,1 @@
+Simple GO lib for sending notifications to different messaging services.
